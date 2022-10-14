@@ -21,8 +21,8 @@ $ npm isntall
 ```
 
 Then set up:
- - process.env.INSTANGRAM_CLIENT_ID
- - process.env.INSTANGRAM_CLIENT_SECRET
+ - process.env.FACEBOOK_CLIENT_ID
+ - process.env.FACEBOOK_CLIENT_SECRET
  - process.env.INSTANGRAM_BASE_URL
 ```
 $ npm start
